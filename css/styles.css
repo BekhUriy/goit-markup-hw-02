@@ -37,6 +37,11 @@ ul {
 .header-adress-link {
   text-decoration: none;
 }
+.header-link {
+color: #2e2f42;
+font-weight: 500;
+
+}
 
 .link {
   font-family: var(--logo-font);
@@ -72,8 +77,8 @@ ul {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-link:hover,
-link:focus {
+.header-link:hover,
+.header-link:focus {
   color: #404bbf;
 }
 .header-adress {
