@@ -108,6 +108,11 @@ ul {
   color: #4d5ae5;
 }
 .main-btn-os {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
   background-color: #4d5ae5;
   color: #ffffff;
 }
@@ -115,6 +120,7 @@ ul {
 .main-btn:focus {
   background-color: #404bbf;
   color: #ffffff;
+  cursor: pointer;
 }
 .card-list {
 }
@@ -134,9 +140,48 @@ ul {
 .main-title {
   font-weight: 700;
   font-size: 56px;
+  text-align: center;
   line-height: 1.07;
   letter-spacing: 0.02em;
   color: #ffffff;
+}
+.section-advantages {
+}
+.advantages-title {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+.section-advantages-list {
+}
+.section-advantages-item {
+}
+.section-advantages-title {
+}
+.section-advantages-text {
+}
+.section-img {
+}
+.section-img-title {
+}
+.section-img-list {
+}
+.section-img-item {
+}
+.section-ot {
+}
+.section-ot-title {
+}
+.section-ot-list {
+}
+.section-ot-item {
+}
+.item-title {
+}
+.item-text {
 }
 /**
   |============================
