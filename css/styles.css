@@ -2,7 +2,7 @@
   --primary-font: 'Roboto', sans-serif;
   --logo-font: 'Raleway', sans-serif;
   --primary-black-color: #212121;
-  --primary-bacground-color: #e5e5e5;
+  --primary-bacground-color: #ffffff;
   --primary-title-color: #2e2f42;
   --secondary-text-color: #434455;
   --active-link-color: #404bbf;
@@ -15,7 +15,7 @@
 
 body {
   font-family: var(--primary-font);
-  color: var(--primary-black-color);
+  color: var(secondary-text-color);
   background-color: var(--primary-bacground-color);
 }
 
@@ -39,7 +39,6 @@ ul {
 }
 
 .logo {
-  width: 44px;
   font-family: var(--logo-font);
   font-style: normal;
   font-weight: 800;
@@ -51,15 +50,12 @@ ul {
   color: #4d5ae5;
 }
 .header-logo {
-  width: 71px;
   color: #2e2f42;
 }
 .footer-logo {
-  width: 71px;
   color: #f4f4fd;
 }
 .header-list {
-  width: 67px;
   color: var(--primary-title-color);
   font-family: var(--primary-font);
   font-weight: 500;
@@ -77,7 +73,6 @@ ul {
 .header-adress-item {
 }
 .header-adress-link {
-  width: 153px;
   font-family: var(--primary-font);
   font-weight: 400;
   color: var(--secondary-text-color);
@@ -128,7 +123,6 @@ ul {
   color: #f4f4fd;
 }
 .main-title {
-  width: 496px;
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
