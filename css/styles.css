@@ -67,9 +67,13 @@ ul {
   list-style: none;
 }
 .header-item {
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
-.list-link:hover,
-.list-link:focus {
+link:hover,
+link:focus {
   color: #404bbf;
 }
 .header-adress {
@@ -165,6 +169,7 @@ ul {
   color: #2e2f42;
 }
 .list {
+  background-color: #FFFFFF;
 }
 .section-advantages-item {
 }
@@ -176,7 +181,7 @@ ul {
   color: #2e2f42;
 }
 .section-advantages-text {
-  color: #434455
+  color: #434455;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
@@ -206,9 +211,9 @@ ul {
    text-transform: capitalize;
    color: #2e2f42;
 }
-.section-ot-list {
+/*.section-ot-list {
   background-color: #FFFFFF;
-}
+}*/
 .section-ot-item {
 }
 .item-title {
