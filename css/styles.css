@@ -93,6 +93,7 @@ ul {
   list-style: none;
 }
 .list {
+  list-style: none;
 }
 .header-adress-item {
 }
@@ -120,8 +121,11 @@ ul {
 }
 .filters-list {
 }
+.item-btn {
+  text-decoration: none;
+}
 .main-btn {
-  font-family: 'Roboto', sans-seri;
+  font-family: var(--primary-font);
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
