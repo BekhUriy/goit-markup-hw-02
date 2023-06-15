@@ -54,12 +54,12 @@ font-weight: 500;
   text-decoration: none;
   color: #4d5ae5;
 }
-.link-item {
+.link {
 color: #2e2f42;
 text-decoration:none;
 }
-.link-item:hover,
-.link-item:focus {
+.link:hover,
+.link:focus {
 color: #404bbf
 }
 .header-logo {
