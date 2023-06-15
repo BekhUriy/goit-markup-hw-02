@@ -30,12 +30,12 @@ body {
 }
 
 .header-link,
-.logo-link,
+.link,
 .header-adress-link {
   text-decoration: none;
 }
 
-.link {
+.logo-link {
   font-family: var(--logo-font);
   font-style: normal;
   font-weight: 800;
@@ -43,7 +43,7 @@ body {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  text-decoration: none;
+  /*text-decoration: none;*/
   color: #4d5ae5;
 }
 .header-link {
