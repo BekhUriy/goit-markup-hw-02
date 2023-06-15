@@ -77,8 +77,12 @@ link:focus {
   color: #404bbf;
 }
 .header-adress {
+  font-style: normal;
+  letter-spacing: 0.02em;
+  list-style: none;
 }
-.header-adress-list {
+.list {
+  
 }
 .header-adress-item {
 }
