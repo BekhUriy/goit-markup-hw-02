@@ -1,0 +1,140 @@
+:root {
+  --primary-font: 'Roboto', sans-serif;
+  --logo-font: 'Raleway', sans-serif;
+  --primary-black-color: #212121;
+  --primary-bacground-color: ##e5e5e5;
+  --primary-title-color: ##2e2f42;
+  --secondary-text-color: ##434455;
+  --active-link-color: ##404bbf;
+  --primary-font-size: 20px;
+  --secondary-font-size: 16;
+  --primary-line-height: 1.2;
+  --secondary-line-height: 1.5;
+  --primary-letter-spacing: 0.02;
+}
+
+body {
+  font-family: var(--primary-font);
+  color: var(--primary-black-color);
+  background-color: var(--primary-bacground-color);
+}
+
+ul {
+  list-style-type: none;
+}
+
+/**
+  |============================
+  | Header styles
+  |============================
+*/
+.header {
+}
+.header-nav {
+}
+
+.header-link,
+.header-adress-link {
+  text-decoration: none;
+}
+
+.logo {
+  width: 44px;
+  font-family: var(--logo-font);
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #4d5ae5;
+}
+.header-logo {
+  width: 71px;
+  color: #2e2f42;
+}
+.footer-logo {
+  width: 71px;
+  color: #f4f4fd;
+}
+.header-list {
+  width: 67px;
+  color: var(--primary-title-color);
+  font-family: var(--primary-font);
+  font-weight: 500;
+  line-height: var(--secondary-line-height);
+  font-size: var(--secondary-font-size);
+  letter-spacing: var(--primary-letter-spacing);
+}
+.header-item {
+}
+.header-list-link {
+}
+.header-adress {
+}
+.header-adress-list {
+}
+.header-adress-item {
+}
+.header-adress-link {
+  width: 153px;
+  color: var(--secondary-text-color)
+  font-family: var(--primary-font);
+  font-weight: 400;
+  line-height: var(--secondary-line-height);
+  font-size: var(--secondary-font-size);
+  letter-spacing: var(--primary-letter-spacing);
+}
+
+/**
+  |============================
+  | Main styles
+  |============================
+*/
+
+.main {
+}
+.filters {
+}
+.filters-list {
+}
+.main-btn {
+}
+.card-list {
+}
+.card-item {
+}
+.card-title {
+}
+.card-text {
+}
+
+.main {
+}
+.main-section {
+  background-color: #2e2f42;
+  color: #f4f4fd;
+}
+.main-title {
+  width: 496px;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+/**
+  |============================
+  | Footer styles
+  |============================
+*/
+
+.footer {
+  background-color: #2e2f42;
+  color: #f4f4fd;
+}
+.footer-link {
+}
+.footer-text {
+}
