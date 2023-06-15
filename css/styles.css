@@ -15,7 +15,7 @@
 
 body {
   font-family: var(--primary-font);
-  color: var(secondary-text-color);
+  color: #434455;
   background-color: var(--primary-bacground-color);
 }
 
@@ -51,9 +51,11 @@ ul {
 }
 .header-logo {
   color: #2e2f42;
+  line-height: 1.17;
 }
 .footer-logo {
   color: #f4f4fd;
+  line-height: 1.17;
 }
 .header-list {
   color: var(--primary-title-color);
