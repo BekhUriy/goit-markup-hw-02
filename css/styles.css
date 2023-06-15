@@ -99,7 +99,13 @@ ul {
 .filters-list {
 }
 .main-btn {
+  font-family: 'Roboto', sans-seri;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
   background-color: #f4f4fd;
+  color: #4d5ae5;
 }
 .main-btn-os {
   background-color: #4d5ae5;
@@ -108,6 +114,7 @@ ul {
 .main-btn:hover,
 .main-btn:focus {
   background-color: #404bbf;
+  color: #ffffff;
 }
 .card-list {
 }
