@@ -30,6 +30,7 @@ body {
 }
 
 .header-link,
+.logo-link,
 .header-adress-link {
   text-decoration: none;
 }
