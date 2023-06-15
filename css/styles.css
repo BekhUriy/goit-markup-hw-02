@@ -122,6 +122,11 @@ ul {
   color: #ffffff;
   cursor: pointer;
 }
+.main-btn-os:hover,
+.main-btn-os:focus {
+  background-color: #404bbf;
+  cursor: pointer;
+}
 .card-list {
 }
 .card-item {
@@ -155,17 +160,30 @@ ul {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.section-advantages-list {
+.list {
 }
 .section-advantages-item {
 }
 .section-advantages-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .section-advantages-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 .section-img {
 }
 .section-img-title {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
 .section-img-list {
 }
