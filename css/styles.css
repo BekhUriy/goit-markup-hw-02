@@ -38,7 +38,7 @@ ul {
   text-decoration: none;
 }
 
-.logo {
+.logo-link {
   font-family: var(--logo-font);
   font-style: normal;
   font-weight: 800;
