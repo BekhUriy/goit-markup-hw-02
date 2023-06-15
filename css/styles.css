@@ -38,9 +38,8 @@ ul {
   text-decoration: none;
 }
 .header-link {
-color: #2e2f42;
-font-weight: 500;
-
+  color: #2e2f42;
+  font-weight: 500;
 }
 
 .link {
@@ -55,12 +54,12 @@ font-weight: 500;
   color: #4d5ae5;
 }
 .link {
-color: #2e2f42;
-text-decoration:none;
+  color: #2e2f42;
+  text-decoration: none;
 }
 .link:hover,
 .link:focus {
-color: #404bbf
+  color: #404bbf;
 }
 .header-logo {
   color: #2e2f42;
@@ -76,8 +75,7 @@ color: #404bbf
   font-weight: 500;
   line-height: var(--secondary-line-height);
   font-size: var(--secondary-font-size);
-  letter-spacing: 0.02em
-  list-style: none;
+  letter-spacing: 0.02em;
 }
 .header-item {
   font-weight: 500;
@@ -185,7 +183,7 @@ color: #404bbf
   color: #2e2f42;
 }
 .list {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 .section-advantages-item {
 }
@@ -216,29 +214,28 @@ color: #404bbf
 .section-img-item {
 }
 .section-ot {
-  background-color: #F4F4FD;
+  background-color: #f4f4fd;
 }
 .section-ot-title {
-  
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
-   text-transform: capitalize;
-   color: #2e2f42;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
 /*.section-ot-list {
   background-color: #FFFFFF;
 }*/
 .section-ot-item {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 .item-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
-   letter-spacing: 0.02em;
-   color: #2e2f42;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .item-text {
   line-height: 1.5;
@@ -255,13 +252,13 @@ color: #404bbf
   background-color: #2e2f42;
   color: #f4f4fd;
 }
-.footer-link {
- color: #4d5ae5;
+.link {
+  color: #4d5ae5;
 }
 .footer-text {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
 .footer-logo {
-color: #4d5ae5;
+  color: #f4f4fd;
 }
